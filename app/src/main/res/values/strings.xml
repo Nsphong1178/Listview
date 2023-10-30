@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string-array name="title">
+        <item>Hoan Kiem Lake</item>
+        <item>Ho Chi Minh Mausoleum</item>
+        <item>West Lake</item>
+        <item>Hanoi’s Old Quarter</item>
+        <item>Temple of Literature</item>
+        <item>Vietnam Museum of Ethnology</item>
+        <item>Hoa Lo Prison</item>
+        <item>Ho Chi Minh Presidential Palace</item>
+        <item>Thang Long Water Puppet Theater</item>
+        <item>One Pillar Pagoda</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Hoan Kiem Lake means the lake of returned sword and it has become the cultural symbol, as well as the historical center of Hanoi. It is attractive to tourists by its legend and the Ngoc Son temple in the middle of the Jade Island leading through the red-painted Morning Sunlight Bridge. Nowadays, it is the first place that every tourists should come first when coming to Hanoi.</item>
+        <item>This spot is one of the most must-see tourist places in Hanoi. Located in Ba Dinh Square, this place is where Vietnamese Communist leader Ho Chi Minh read the nation’s declaration of independence in 1945. It is opened to public for free every morning except for Monday and Friday. Every a lot of Vietnamese people and tourists come and queue for a long time to see his body.</item>
+        <item>Just within over 10-minute drive from the Old Quarter, you can get to West Lake that is the biggest freshwater lake in Hanoi. There are various places that offer all your demands here, from stylish restaurants and beautiful café to luxurious hotels and nightlife venues. Exploring local life along the shoreline is one of the most interesting experience, or simply you can stroll around the lake to enjoy some fresh atmosphere.</item>
+        <item>The Old Quarter is the combination of the old and new as ancient narrow streets snake between old brick buildings. There are many motorbikes and street vendors walking along Hanoi streets, selling fresh fruits  and gifts of Hanoi. Walking along streets here to enjoy Hanoi streetfood and experience the lifestyle of people living here.At weekends, tourists have chance to enjoy the night market,  see some walking streets with entertainments and beverages of Hanoi. Especially, sitting in the beer corner, drinking “Bia hoi” and watching people around you are some of interesting activities for most tourists here.</item>
+        <item>Temple of Literature is the holy place for education. This is also the temple of Confucius and is the first national university of Vietnam built in the 11th century. This is also the symbol of Hanoi with very special pavilion and 82 Stelae of Doctor. </item>
+        <item>Vietnam is a multiethnic country consisting of 54 distinct groups that create the rich diversity about language, culture and lifestyle of the country. If you aspire to gain an insight of each ethnic group with their own belief and custom, the Museum of Ethology is the best place to discover them. Besides, you will have a chance to enjoy a combination of art, ordinary everyday objects and historic artifacts that definitely tell you intriguing story of each unique culture. </item>
+        <item>This is one of the worth site you should visit when coming to Hanoi. Hoa Lo Prison or the Mai Son Central was originally built in 1896 by the French with the purpose of capturing Vietnamese political prisoners. Then it was used to incarcerate American pilots since 1954. A visit to “the prison” can bring you mixed emotions, they may be sorrow, shock and even disgust. The Mai Son central displays mainly the suffering of Vietnamese prisoners detained here, which teach us the value of peace.Currently, only a small section of this prison is intact and become an attractive spot to most of foreign tourists in Hanoi, the rest was destroyed to make way for the Hanoi Towers.</item>
+        <item>Constructed in the early 1990’s, this palace is a place where lived and worked of the French Governor of the Indochina colony. After 1954, the government of Vietnam took over this place and asked the President Ho Chi Minh to live there but Ho Chi Minh refused to live there as it was so luxurious. Nowadays, it is the place for high-ranking level meeting of the government. The house is designed in a well-tended garden  with the impressive colour of its outside architecture.</item>
+        <item>Originated in 11th century in the North Vietnam, this is an art form stemmed from flooded rice paddle fields of rural area in Vietnam. Villagers came up with an idea that used a rod to perform puppets over the water as source of entertainment. Nowadays, typical themes of puppets shows are the same as those in the past, they are mostly rooted in Vietnamese traditional activities like: cultivating rice, fishing and folklore.</item>
+        <item>Regarded as one of the most iconic temples in Vietnam, the temple was built the middle of 11th century by a fatherless Vietnamese Emperor. Specially, it was buillt from wood based on a single stone pillar, which resembled a lotus blossom. This unique thing is rooted in the prophetic dream of the king, then he decided to build it to express gratitude for finally being blessed by a son.</item>
+    </string-array>
+
+    <array name="images">
+    <item>@drawable/hoankiem</item>
+    <item>@drawable/hochiminh</item>
+    <item>@drawable/westlake</item>
+    <item>@drawable/oldquater</item>
+    <item>@drawable/literaturetemple</item>
+    <item>@drawable/ethnology</item>
+    <item>@drawable/maison</item>
+    <item>@drawable/precidental</item>
+    <item>@drawable/waterpuppet</item>
+    <item>@drawable/onepillar</item>
+
+    </array>
+</resources>
